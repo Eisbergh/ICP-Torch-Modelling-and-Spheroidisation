@@ -390,7 +390,7 @@ For dense industrial powder loading, two-way plasma-particle coupling may become
 This repository supports the work:
 
 > **Numerical analysis of inductively coupled plasma torch dynamics for titanium particle spheroidisation using Python**  
-> Hendrik J. Greeff and Samuel A. Iwarere  
+> Hendrik J. Greeff, Samuel A. Iwarere, and Hertzog Bisset
 > Department of Chemical Engineering, University of Pretoria, South Africa.
 
 The study investigates how RF-ICP operating power influences both plasma thermal behaviour and particle transport, and uses combined thermal/transport processing envelopes to identify conditions suitable for titanium-particle spheroidisation.
